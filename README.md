@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanskrutishelke991/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/sanskrutishelke991/leetcode/tree/master/0053-maximum-subarray) |
+| [0706-design-hashmap](https://github.com/sanskrutishelke991/leetcode/tree/master/0706-design-hashmap) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanskrutishelke991/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanskrutishelke991/leetcode/tree/master/0001-two-sum) |
+| [0706-design-hashmap](https://github.com/sanskrutishelke991/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,9 +37,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sanskrutishelke991/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/sanskrutishelke991/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/sanskrutishelke991/leetcode/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/sanskrutishelke991/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/sanskrutishelke991/leetcode/tree/master/0707-design-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/sanskrutishelke991/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
