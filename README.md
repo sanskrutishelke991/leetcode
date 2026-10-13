@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sanskrutishelke991/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanskrutishelke991/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sanskrutishelke991/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanskrutishelke991/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sanskrutishelke991/leetcode/tree/master/0169-majority-element) |
 | [0706-design-hashmap](https://github.com/sanskrutishelke991/leetcode/tree/master/0706-design-hashmap) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanskrutishelke991/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanskrutishelke991/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanskrutishelke991/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
 | ------- |
