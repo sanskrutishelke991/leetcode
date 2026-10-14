@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanskrutishelke991/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sanskrutishelke991/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanskrutishelke991/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sanskrutishelke991/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanskrutishelke991/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanskrutishelke991/leetcode/tree/master/0011-container-with-most-water) |
 | [0876-middle-of-the-linked-list](https://github.com/sanskrutishelke991/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanskrutishelke991/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanskrutishelke991/leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sanskrutishelke991/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
