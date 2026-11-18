@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanskrutishelke991/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanskrutishelke991/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sanskrutishelke991/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sanskrutishelke991/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/sanskrutishelke991/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/sanskrutishelke991/leetcode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/sanskrutishelke991/leetcode/tree/master/0739-daily-temperatures) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanskrutishelke991/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sanskrutishelke991/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sanskrutishelke991/leetcode/tree/master/0217-contains-duplicate) |
 | [0706-design-hashmap](https://github.com/sanskrutishelke991/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanskrutishelke991/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sanskrutishelke991/leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/sanskrutishelke991/leetcode/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanskrutishelke991/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
