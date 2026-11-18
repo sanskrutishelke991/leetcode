@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanskrutishelke991/leetcode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/sanskrutishelke991/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/sanskrutishelke991/leetcode/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/sanskrutishelke991/leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/sanskrutishelke991/leetcode/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanskrutishelke991/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanskrutishelke991/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/sanskrutishelke991/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/sanskrutishelke991/leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sanskrutishelke991/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sanskrutishelke991/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
